@@ -1,0 +1,9 @@
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.exe.config
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.exe
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csprojResolveAssemblyReference.cache
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.Form1.resources
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.Properties.Resources.resources
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.csproj.GenerateResource.Cache
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.exe
+C:\inflearn_projrcts\AnimalShelter\AnimalShelter\obj\Debug\AnimalShelter.pdb
